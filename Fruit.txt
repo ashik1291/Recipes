@@ -2,3 +2,9 @@
 2. Apple
 3. Banana
 4. Dragon
+5. Oranges
+6. Lychee
+7. Pineapple
+8. Olives
+9. Cherries
+10. Watermelon

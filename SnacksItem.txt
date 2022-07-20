@@ -1,6 +1,6 @@
-1. Tea
-2. Coffee
-3. Singara
-4. Samucha
-5. Cake
-6. Bun
+Tea
+Coffee
+Singara
+Samucha
+Cake
+Bun

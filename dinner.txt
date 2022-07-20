@@ -1,1 +1,4 @@
-Adds more dinner item here
+1. Grilled cheese.
+2. Tomato soup.
+3. Mini burgers.
+4. Chicken fingers/ nuggets.
